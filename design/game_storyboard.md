@@ -7,46 +7,40 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Shadows of Kurohana Academy is a supernatural mystery adventure set inside an abandoned academy haunted by a powerful shadow creature.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player becomes trapped inside Kurohana Academy after entering the abandoned school at night. A powerful creature known as the Shadow Master has sealed the exits. To escape, the player must explore the academy and collect six enchanted items: an Ancient Spellbook, Crystal Vial, Enchanted Paintbrush, Silver Bell, Protective Charm, and Moonstone. After collecting all six items, the player can confront the Shadow Master and break the seal. If the player encounters the Shadow Master before collecting all six items, the player loses.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
+1. Main Hall - Start room
+2. Library
+3. Science Lab
+4. Art Room
+5. Music Room
+6. Cafeteria
+7. Courtyard
+8. Rooftop - Villain room
 
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+1. Ancient Spellbook
+2. Crystal Vial
+3. Enchanted Paintbrush
+4. Silver Bell
+5. Protective Charm
+6. Moonstone
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Shadow Master is a powerful shadow creature that has sealed the exits of Kurohana Academy. The player must avoid the Shadow Master until all six enchanted items have been collected.
 
 ## Storyboard and Map Check
 
